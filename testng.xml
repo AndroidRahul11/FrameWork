@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="Utility.Listeners"/>
+        <listener class-name=""/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/rvyavahare/Pictures/Automation/Mavenjava/FrameWork">
+        <classes>
+            <class name="MobileAuto.MavenJava.Trainer1"/>
+            <class name="MobileAuto.MavenJava.DashboardNative"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1643823418002" stop="1643823457790" version="1.4.0">
+    <name>All Test Suite</name>
+    <test-cases>
+        <test-case start="1643823418121" stop="1643823457728" status="passed">
+            <name>toatlValidation</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="feature" value="C:/Users/rvyavahare/Pictures/Automation/Mavenjava/FrameWork"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
